@@ -1,5 +1,5 @@
 # Vinci-Shopping-app
-App created as a part of PROJECT VINCI- AI generated fashion using text. 
+React Native App created as a part of PROJECT VINCI- AI generated fashion using text. 
 
 ## Details about the project
 <ul>
